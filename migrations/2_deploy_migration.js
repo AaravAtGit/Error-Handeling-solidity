@@ -1,4 +1,4 @@
-var HelloWorld = artifacts.require("HelloWorld");
+var Error_Handeling = artifacts.require("Error_Handeling");
 module.exports = function(deployer) {
-  deployer.deploy(HelloWorld);
+  deployer.deploy(Error_Handeling);
 }
